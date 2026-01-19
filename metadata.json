@@ -1,0 +1,57 @@
+{
+  "project": {
+    "name": "ONTOnew",
+    "description": "A Protocol for Recognition. An Economy of Ideas.",
+    "website": "https://ontonew.com",
+    "status": "live_platform",
+    "tagline": "Ideas, Publications, Projects."
+  },
+  "core_philosophy": {
+    "the_fracture": "Innovation is gridlocked. Patent offices protect corporations, not inventors. Academic journals hold knowledge in years-long queues. Funding decisions are made in boardrooms, not by communities. Between the speed of thought and the inertia of institutions lies a fracture. ONTO is a direct bridge across this fracture.",
+    "axiom": "Visibility is protection. Community is strength."
+  },
+  "platform_components": {
+    "ideas": {
+      "description": "Share Your Idea. Secure Your Priority. The patent system is broken. Share your concept publicly, create prior art instantly, and maintain your claim as the originator. Fast, free, and formidable.",
+      "purpose": "Raw thought. Stake your concept and create defensive prior art—instantly and freely."
+    },
+    "publications": {
+      "description": "Publish Your Research. Own Your Priority. Share your complete work. Establish public authorship and a verifiable timestamp. Bypass slow journals, own your narrative fast and free!",
+      "purpose": "Finished knowledge. Establish priority and share your work—without intermediaries."
+    },
+    "projects": {
+      "description": "Launch Your Project. Find Your Support. From prototype to passion. Present your plan, attract backers, and build a community around your vision. Connect directly with those who want to see it happen.",
+      "purpose": "Live development. Find resources and collaborators to bring your vision to life."
+    }
+  },
+  "token": {
+    "name": "ONTOnew.com",
+    "symbol": "ONTO",
+    "contract_address_raw": "EQA95hQqnN5LdpOOA82SoO2fs35TCzRKXhDeSb3JHi1Xlo7n",
+    "contract_address_friendly": "0:3de6142a9cde4b76938e03cd92a0ed9fb37e530b344a5e10de49bdc91e2d5796",
+    "network": {
+      "name": "TON (The Open Network)",
+      "standard": "Jetton"
+    },
+    "decimals": 9,
+    "logo_url": "https://windpatent.com/ontologonew.png",
+    "description": "Created to support good ideas on © ONTOnew.com!",
+    "purpose": "A currency of recognition, not a speculative asset. A mechanism for direct patronage.",
+    "status": "launched"
+  },
+  "inviolable_principles": [
+    "The Inviolability of Authorship. Priority is permanently recorded.",
+    "Direct Patronage. No intermediaries. From person to person.",
+    "Utility Over Speculation. Value lies in useful action.",
+    "Full Transparency. All rules and mechanisms are open."
+  ],
+  "disclaimer": "We will try our best to keep this platform operational keeping all records alive, but we should nonetheless warn you in plain words – not to rely solely on this platform and have alternative methods for prior art proof.",
+  "social_links": {
+    "website": "https://ontonew.com"
+  },
+  "metadata": {
+    "schema_version": "1.0",
+    "updated_at": "2025-01-19",
+    "source": "Official project README, website analysis, and verified token contract data."
+  }
+}
