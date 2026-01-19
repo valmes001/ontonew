@@ -34,6 +34,7 @@
       "standard": "Jetton"
     },
     "decimals": 9,
+    "total_supply": "1000000000",
     "logo_url": "https://windpatent.com/ontologonew.png",
     "description": "Created to support good ideas on © ONTOnew.com!",
     "purpose": "A currency of recognition, not a speculative asset. A mechanism for direct patronage.",
