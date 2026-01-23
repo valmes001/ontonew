@@ -17,21 +17,23 @@ This is not a platform. It is new ground, where rules are shaped by the natural 
 ## The Core: The ONTO and NEW Ecosystem Tokens
 The ONTOnew protocol operates on a dual-token economic model, ensuring both long-term value stability and efficient operational utility.
 
-**ONTOnew (Golden Status)**
-    *   **Role:** Store of Value / Digital Nobel Prize.
-    *   **Status:** Ownership Renounced. The contract is immutable and fully decentralized. No further emission is possible.
-    *   **Utility:** Recognition of outstanding intellectual contributions and high-tier scientific patronage.
-    *   **Contract Address:** `EQA95hQqnN5LdpOOA82SoO2fs35TCzRKXhDeSb3JHi1Xlo7n`
+### **ONTOnew (Golden Status)**
+*   **Role:** Store of Value / Digital Nobel Prize.
+*   **Status:** **Ownership Renounced**. The contract is immutable and fully decentralized. No further emission is possible.
+*   **Utility:** Recognition of outstanding intellectual contributions and high-tier scientific patronage.
+*   **Contract Address:** `EQA95hQqnN5LdpOOA82SoO2fs35TCzRKXhDeSb3JHi1Xlo7n`
 
-**ontoNEW (Silver Status)**
-    *   **Role:** Operational Currency / Utility Token.
-    *   **Status:** Managed by the protocol for scalable ecosystem rewards.
-    *   **Utility:** Used for community voting, rewarding authors, and micro-transactions within the ONTOnew territory.
-    *   **Contract Address:** `EQA4CJKnzXOfbDOwwvqCs97Ar_iqN0SIkabtDqucZvpb2gjg`
+### **ontoNEW (Silver Status)**
+*   **Role:** Operational Currency / Utility Token.
+*   **Status:** Managed by the protocol for scalable ecosystem rewards.
+*   **Utility:** Used for community voting, rewarding authors, and micro-transactions within the ONTOnew territory.
+*   **Contract Address:** `EQA4CJKnzXOfbDOwwvqCs97Ar_iqN0SIkabtDqucZvpb2gjg`
 
-*   **How it works:** You find work that matters to you. To support its author, you send them NEW. Directly.
-*   **What it changes:** The author gains NEW tokens and will be able to chenge the to ONTO. This way you enact direct patronage by voting with NEW, bypassing all bureaucratic layers.
-*   **Our stance:** Both ONTO and NEW are utility tools. Thier primary value lies in its usefulness to the ecosystem, not in speculative promise.
+---
+
+*   **How it works:** You find work that matters to you. To support its author, you send them **NEW**. Directly.
+*   **What it changes:** The author gains NEW tokens and will be able to change them to **ONTO**. This way you enact direct patronage by voting with NEW, bypassing all bureaucratic layers.
+*   **Our stance:** Both ONTO and NEW are utility tools. Their primary value lies in its usefulness to the ecosystem, not in speculative promise.
 
 ## Choice and Commitment
 You can support any author directly by sending any asset on the TON network to their wallet. ONTOnew.com exists for those who choose to go a step further.
