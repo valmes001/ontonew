@@ -24,35 +24,38 @@
       "purpose": "Live development. Find resources and collaborators to bring your vision to life."
     }
   },
-  "token": {
-    "name": "ONTOnew.com",
-    "symbol": "ONTO",
-    "contract_address_raw": "EQA95hQqnN5LdpOOA82SoO2fs35TCzRKXhDeSb3JHi1Xlo7n",
-    "contract_address_friendly": "0:3de6142a9cde4b76938e03cd92a0ed9fb37e530b344a5e10de49bdc91e2d5796",
-    "network": {
-      "name": "TON (The Open Network)",
-      "standard": "Jetton"
+  
+  
+  
+  
+    "tokens": {
+    "reserve": {
+      "name": "ONTOnew.com",
+      "symbol": "ONTO",
+      "contract_address": "EQA95hQqnN5LdpOOA82SoO2fs35TCzRKXhDeSb3JHi1Xlo7n",
+      "status": "Renounced",
+      "total_supply": "1000000000",
+      "logo_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/logo.png",
+      "description": "Recognition token on ONTOnew.com",
+    "purpose": "A recognition token, not a speculative asset. A mechanism for direct patronage."
     },
-    "decimals": 9,
-    "total_supply": "1000000000",
-    "logo_url": "https://github.com/valmes001/ontonew/blob/main/logo.png",
-    "description": "Created to support good ideas on © ONTOnew.com!",
-    "purpose": "A currency of recognition, not a speculative asset. A mechanism for direct patronage.",
-    "status": "launched"
-  },
-  "inviolable_principles": [
-    "The Inviolability of Authorship. Priority is permanently recorded.",
-    "Direct Patronage. No intermediaries. From person to person.",
-    "Utility Over Speculation. Value lies in useful action.",
-    "Full Transparency. All rules and mechanisms are open."
-  ],
-  "disclaimer": "We will try our best to keep this platform operational keeping all records alive, but we should nonetheless warn you in plain words – not to rely solely on this platform and have alternative methods for prior art proof.",
-  "social_links": {
-    "website": "https://ontonew.com"
+    "operational": {
+      "name": "ontoNEW.com",
+      "symbol": "NEW",
+      "contract_address": "EQA4CJKnzXOfbDOwwvqCs97Ar_iqN0SIkabtDqucZvpb2gjg",
+      "network": {
+      "name": "TON (The Open Network)",
+      "standard": "Jetton"},
+      "status": "Managed",
+      "total_supply": "100000000000",
+      "logo_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/ontonewlogo.png",
+      "description": "Utility token on ONTOnew.com",
+    "purpose": "An utility token, not a speculative asset. A mechanism for direct patronage."
+    }
   },
   "metadata": {
-    "schema_version": "1.0",
-    "updated_at": "2025-01-19",
-    "source": "Official project README, website analysis, and verified token contract data."
+    "schema_version": "1.1",
+    "updated_at": "2026-01-23",
+    "source": "Verified Protocol Manifest"
   }
 }
