@@ -1,0 +1,12 @@
+{
+  "name": "ontoNEW",
+  "symbol": "NEW",
+  "description": "Utility token for the ONTOnew.com",
+  "image": "https://raw.githubusercontent.com/valmes001/ontonew/main/ontonewlogo.png",
+  "content_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/README.md",
+  "terms_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/TERMS.md",
+  "external_url": "https://ontonew.com",
+  "decimals": 9,
+  "contract_address": "EQA4CJKnzXOfbDOwwvqCs97Ar_iqN0SIkabtDqucZvpb2gjg",
+  "total_supply": "100000000000"
+}
