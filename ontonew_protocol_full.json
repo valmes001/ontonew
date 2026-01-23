@@ -23,10 +23,7 @@
       "description": "Launch Your Project. Find Your Support. From prototype to passion. Present your plan, attract backers, and build a community around your vision. Connect directly with those who want to see it happen.",
       "purpose": "Live development. Find resources and collaborators to bring your vision to life."
     }
-  },
-  
-  
-  
+  },  
   
     "tokens": {
     "reserve": {
@@ -37,7 +34,7 @@
       "total_supply": "1000000000",
       "logo_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/logo.png",
       "description": "Recognition token on ONTOnew.com",
-    "purpose": "A recognition token, not a speculative asset. A mechanism for direct patronage."
+      "purpose": "A recognition token, not a speculative asset. A mechanism for direct patronage."
     },
     "operational": {
       "name": "ontoNEW.com",
@@ -50,7 +47,7 @@
       "total_supply": "100000000000",
       "logo_url": "https://raw.githubusercontent.com/valmes001/ontonew/main/ontonewlogo.png",
       "description": "Utility token on ONTOnew.com",
-    "purpose": "An utility token, not a speculative asset. A mechanism for direct patronage."
+      "purpose": "An utility token, not a speculative asset. A mechanism for direct patronage."
     }
   },
   "metadata": {
