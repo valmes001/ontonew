@@ -49,4 +49,4 @@ In 2026 the ONTO token (TON network) will be introduced as the native currency o
 ## Join Us
 Official Website: [ONTOnew.com](https://ontonew.com)
 
-**Disclaimer:** We will try our best to keep this platform operational keeping all records alive, but we should nonetheless warn you in plain words – not to rely solely on this platform and have alternative methods for prior art proof. Please read our [Terms of Use](https://raw.githubusercontent.com/valmes001/ontonew/main/TERMS.md).
+**Disclaimer:** We will try our best to keep this platform operational keeping all records alive, but we should nonetheless warn you in plain words – not to rely solely on this platform and have alternative methods for prior art proof. Please read our [Terms of Use](https://github.com/valmes001/ontonew/blob/main/TERMS.md).
